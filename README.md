@@ -1,4 +1,6 @@
 # Time-Series-Analysis-and-Forecasting-of-Air-Passengers
+Visit [here](https://www.geeksforgeeks.org/time-series-analysis-using-facebook-prophet/) to view my detailed published article on this subject.
+
 Using Facebook Prophet to forecast the number of air passengers in USA for 5 years(1961 to 1965) using the known data from January 1949 to December 1960. Open [Notebook](https://github.com/rahulhegde99/Time-Series-Analysis-and-Forecasting-of-Air-Passengers/blob/master/Forecasting_AirPassengers.ipynb) for more information.
 
 ### Illustrations
